@@ -1,0 +1,6 @@
+    Hayvan renk, kilo, cinsi, no, yas, konustu()
+
+    Kedi tipi extend Hayvan
+    Köpek tipi extend Hayvan
+    Ördek tipi extend Hayvan  kanatUzunlugu
+    Yılan tipi extend Hayvan  zehirCinsi

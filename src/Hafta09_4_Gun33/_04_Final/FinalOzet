@@ -1,0 +1,6 @@
+    1- değişkenlerin (fieldların,properties,attribute) başında yazıldığında
+    sadece Constructor da yada tanımlandığı yerde Değer alabilir.
+
+    2- Class ın başına yazdığımızda : miras vermez, aynen kullanılır
+
+    3- metodun başına yazdığımızda : override edilemez, aynen kullanılabilir.

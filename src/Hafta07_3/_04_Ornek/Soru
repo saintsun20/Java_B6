@@ -1,0 +1,5 @@
+Bir okulda kayıt programı için Ogrenci bilgilerini alan modül
+yazılacaktır. Ogrenci ye ait bilgiler (adi, soyadi, sinifi ve adres) vardır.
+bu yapıyı oluşturunuz.
+Daha sonra 30 (test için 3 tane yapabilirsiniz) tane öğrenci bilgilerini kullanıcıdan alarak doldurunuz.
+Bu öğrencilerin Yazdırma işlemini ayrı bir for ile yapın.

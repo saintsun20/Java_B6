@@ -1,0 +1,46 @@
+Bizim şu an akadarki amacımız ne idi ?
+Yazılımı yazpılacak verileri , öncelikle programa aktarabilmekti.
+Veriye uygun formatta Değişken TİPİ olmalı.
+int
+String
+int[]
+ArrayList
+Set
+Map
+Kartvizit.get("Yusu").get("email"); -> yusuf.email
+String cumle="Bugün hava çok sıcak";
+cumle.length
+
+insan sınıfının var olan hali
+Yusuf un email i
+Yusuf un telefonu u
+Yusuf un adresi
+
+Kargo tip, Ayşenin Kargosu ise var olan bir nesne
+Ayşe Kargo nun alışAdresi
+Ayşe Kargo nun VarışAdresi
+Ayşe Kargo nun ücreti
+Ayşe Kargo nun Göndericisi nin telefonu
+
+tür,tip,sınıf
+class Ogrenci{ // kendi tipini oluştur , Öğrenci tipi oluşturdun
+String Adi;
+String Email;
+String Soyadi;
+String Telefonu;
+int PostaKodu;
+}
+
+int Sayi;
+Ogrenci ogr1;  Ogrenci Tür adı,Tip adı,sınıf Adı,
+               ogr1 ise bundan oluşturulmuş bir nesne
+
+ogr1.Adi
+    .Soyadi
+    .
+
+Araba bir sınıf yani TİP adı,
+Şaban ın Mercedes i Araba tipinden bir NESNE
+
+Kendi tipini tanımla - OOP (Object Oriented Programming)
+Nesne ye yönelik programlama ->
